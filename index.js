@@ -18,12 +18,6 @@ function logWhisper(string) {
   return string.toLowerCase()
 }
 
-var lowerCase = "hello!"
-lowerCase.toLowerCase === lowerCase
 
-function sayHiToGrandma(string) {
-  return string.toLowerCase ("I can't hear you!")
-  
-}
-
+function sayHiToGrandma()
   
