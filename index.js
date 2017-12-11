@@ -8,21 +8,21 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log('HELLO')
+  console.log('HELLO');
   return (string.toUpperCase())
 
 }
 
 function logWhisper(string) {
-  console.log('hello')
+  console.log('hello');
   return (string.toLowerCase())
 }
 
 
 function sayHiToGrandma(string) {
   if (string === string.toLowerCase()) {
-    var lowerCase = string.toLowerCase
-    return ('I can\'t hear you!')
+    var lowerCase = string.toLowerCase();
+    return ('I can\'t hear you!');
   }
 }
   
