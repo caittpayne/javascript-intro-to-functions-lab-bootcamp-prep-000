@@ -30,7 +30,7 @@ function sayHiToGrandma(string) {
     return ('YES INDEED!');
   }
   
-  else (string === string.mixedCase()) {
+  else  {
     var mixedCase = string.mixedCase();
     return ('I love you, too.');
   }
